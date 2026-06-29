@@ -80,7 +80,7 @@
     "hast-util-to-string": "^3.0.1",
     "hastscript": "^9.0.1",
     "i18next": "^26.0.7",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.2.0",
     "klona": "^2.0.6",
     "magic-string": "^0.30.21",
     "mdast-util-directive": "^3.1.0",
